@@ -3,35 +3,86 @@
     {
       "id": 1,
       "idcliente": 1,
-      "data": "15-12-2025",
-      "horaentrada": "08:10",
-      "horasaida": "09:35",
-      "status": "finalizado"
+      "data": "2025-12-01",
+      "horaentrada": "08:00",
+      "horasaida": "09:10"
     },
     {
       "id": 2,
       "idcliente": 2,
-      "data": "15-12-2025",
-      "horaentrada": "10:05",
-      "horasaida": null,
-      "status": "no estabelecimento."
+      "data": "2025-12-01",
+      "horaentrada": "09:30",
+      "horasaida": "10:40"
     },
     {
       "id": 3,
       "idcliente": 3,
-      "data": "15-12-2025",
-      "horaentrada": "18:20",
-      "horasaida": "19:45",
-      "status": "finalizado"
+      "data": "2025-12-02",
+      "horaentrada": "07:50",
+      "horasaida": "09:00"
     },
     {
       "id": 4,
       "idcliente": 1,
-      "data": "14-12-2025",
+      "data": "2025-12-03",
+      "horaentrada": "18:10",
+      "horasaida": "19:20"
+    },
+    {
+      "id": 5,
+      "idcliente": 2,
+      "data": "2025-12-05",
+      "horaentrada": "10:00",
+      "horasaida": "11:15"
+    },
+    {
+      "id": 6,
+      "idcliente": 3,
+      "data": "2025-12-07",
+      "horaentrada": "16:30",
+      "horasaida": "17:40"
+    },
+    {
+      "id": 7,
+      "idcliente": 1,
+      "data": "2025-12-10",
+      "horaentrada": "08:05",
+      "horasaida": "09:30"
+    },
+    {
+      "id": 8,
+      "idcliente": 2,
+      "data": "2025-12-12",
+      "horaentrada": "19:00",
+      "horasaida": "20:10"
+    },
+    {
+      "id": 9,
+      "idcliente": 3,
+      "data": "2025-12-14",
+      "horaentrada": "06:45",
+      "horasaida": "08:00"
+    },
+    {
+      "id": 10,
+      "idcliente": 1,
+      "data": "2025-12-15",
       "horaentrada": "07:55",
-      "horasaida": "09:00",
-      "status": "finalizado"
+      "horasaida": "09:00"
+    },
+    {
+      "id": 11,
+      "idcliente": 2,
+      "data": "2025-12-16",
+      "horaentrada": "09:10",
+      "horasaida": null
+    },
+    {
+      "id": 12,
+      "idcliente": 3,
+      "data": "2025-12-16",
+      "horaentrada": "18:00",
+      "horasaida": "19:30"
     }
   ]
 }
-
